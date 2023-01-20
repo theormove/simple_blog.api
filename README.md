@@ -24,3 +24,4 @@ Django Rest Framework
 {}
 ## api/activity/{USERNAME} (Last activity and login)
 ## api/analytics/?date_from=YYYY-MM-DD&date_to=YYYY-MM-DD& (total number of likes)
+# To run yourself install packages from requirements.txt
